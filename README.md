@@ -14,4 +14,4 @@ Neural Networks models implemented by Keras in Tensorflow library.
 Amir mohmmad Ezzati   
 Seyed Amir Kasaei   
 
-**This was a pair work project that we wrote as third project of Deep Learning course at University of Guilan in May 2022.**
+**This project was a pair work that we wrote as third project of Deep Learning course at University of Guilan in May 2022.**
